@@ -1,0 +1,8 @@
+.filtering{
+    margin: 10px auto;
+}
+.filtering select{
+    padding: 10px;
+    margin: 10px;
+    background-color: antiquewhite;
+}

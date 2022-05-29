@@ -1,0 +1,54 @@
+{
+  "empolyees": [
+    {
+      "id": 1,
+      "name": "Employee 1",
+      "age": 20,
+      "address": "Pune",
+      "dept": "frontEnd",
+      "salary": 5,
+      "marital": false,
+      "photo": "abc"
+    },
+    {
+      "id": 2,
+      "name": "Employee 2",
+      "age": 21,
+      "address": "Pune",
+      "dept": "frontEnd",
+      "salary": 23,
+      "marital": false,
+      "photo": "abc"
+    },
+    {
+      "id": 3,
+      "name": "Employee 3",
+      "age": 22,
+      "address": "Pune",
+      "dept": "frontEnd",
+      "salary": 15,
+      "marital": false,
+      "photo": "abc"
+    },
+    {
+      "id": 4,
+      "name": "Employee 4",
+      "age": 26,
+      "address": "Pune",
+      "dept": "frontEnd",
+      "salary": 9,
+      "marital": false,
+      "photo": "abc"
+    },
+    {
+      "name": "Employee 6",
+      "age": "12",
+      "address": "asd",
+      "dept": "backEnd",
+      "salary": "32",
+      "marital": false,
+      "photo": "",
+      "id": 12
+    }
+  ]
+}
